@@ -37,6 +37,8 @@
       color: red;
   }
   .principal .formulario .boton{
+    padding: 0.5 rem;
+    border-radius: 5 px;
     background: none;
     border: 1px solid #d32f2f;
     color: #fff;
@@ -53,13 +55,6 @@
       list-style: none;
   }
   
-  .btn {
-    padding: : 0.5rem;
-    background-color: #C0B31C;
-    color: blanck;
-    border-radius: 5px;
-  }
-
   .tareas .lista li {
       border-bottom: 1px solid #B6B6B6;
   }

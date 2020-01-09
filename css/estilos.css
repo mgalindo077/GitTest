@@ -53,8 +53,11 @@
       list-style: none;
   }
   
-  .btn{
-    
+  .btn {
+    padding: : 0.5rem;
+    background-color: #C0B31C;
+    color: blanck;
+    border-radius: 5px;
   }
 
   .tareas .lista li {
